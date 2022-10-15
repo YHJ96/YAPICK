@@ -1,7 +1,9 @@
 # 코드스테이츠 39기 38팀 Main-Project
 
+## 팀 소개
+
 <details>
-<summary>팀 소개</summary>
+<summary>팀 소개 확인하기</summary>
 <div markdown="1">
 
 <img src="./docs/img/YAPICK.png">
