@@ -1,8 +1,19 @@
 # 코드스테이츠 39기 38팀 Main-Project
 
-## 프로젝트 문서 보관소
+<details>
+<summary>팀 소개</summary>
+<div markdown="1">
 
-[<img width="150" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://yhj96.notion.site/38836ceabfda41c9973fdf28d1b53c1b?v=f9c70228004940f4b6f6caa4fa7ef6d2)
+<img src="./docs/img/YAPICK.png">
+
+기다리지 마세요!! 픽업해서 편하게 즐기세요!!  
+🚚 YAPICK (야시장 음식 주문 웹)
+
+- 팀장 : 양희준(FE)
+- 팀원 : 김재원(FE), 유태형(BE), 김나율(BE), 임수인(BE)
+
+</div>
+</details>
 
 ## 배포 링크
 
