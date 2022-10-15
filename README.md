@@ -4,6 +4,15 @@
 
 [🚚 YAPICK 홈페이지](https://yapick.netlify.app/)
 
+## 서비스 소개
+
+<details>
+<summary>팀 & 팀원 소개 확인하기</summary>
+<div markdown="1">
+
+</div>
+</details>
+
 ## 팀 & 팀원 소개
 
 <details>
@@ -393,3 +402,32 @@
 </details>
 
 ## 협업 문서 확인하기
+
+<details>
+<summary>협업 문서 확인하기</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+## GitHub-Flow
+
+<details>
+<summary>GitHub-Flow 확인하기</summary>
+<div markdown="1">
+
+<img src="./docs/img/브렌치 전략.png">
+
+</div>
+</details>
+
+## 프로젝트 회고록
+
+<details>
+<summary>프로젝트 회고록 확인하기</summary>
+<div markdown="1">
+
+<img src="./docs/img/브렌치 전략.png">
+
+</div>
+</details>
