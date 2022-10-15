@@ -7,8 +7,215 @@
 ## 서비스 소개
 
 <details>
-<summary>팀 & 팀원 소개 확인하기</summary>
+<summary>화면 GIF</summary>
 <div markdown="1">
+
+<details>
+<summary>네비게이션</summary>
+<div markdown="1">
+
+<img src="./docs/img/네비게이션.gif">
+
+</div>
+</details>
+
+<details>
+<summary>회원가입</summary>
+<div markdown="1">
+
+<img src="./docs/img/회원가입.gif">
+
+</div>
+</details>
+
+<details>
+<summary>로컬 로그인</summary>
+<div markdown="1">
+
+<img src="./docs/img/로그인.gif">
+
+</div>
+</details>
+
+<details>
+<summary>카카오 로그인</summary>
+<div markdown="1">
+
+<img src="./docs/img/카카오 로그인.gif">
+
+</div>
+</details>
+
+<details>
+<summary>로그아웃</summary>
+<div markdown="1">
+
+<img src="./docs/img/로그아웃.gif">
+
+</div>
+</details>
+
+<details>
+<summary>마이페이지</summary>
+<div markdown="1">
+
+<img src="./docs/img/마이페이지.gif">
+
+</div>
+</details>
+
+<details>
+<summary>아이디 찾기</summary>
+<div markdown="1">
+
+<img src="./docs/img/아이디찾기.gif">
+
+</div>
+</details>
+
+<details>
+<summary>비밀번호 찾기</summary>
+<div markdown="1">
+
+<img src="./docs/img/비밀번호찾기.gif">
+
+</div>
+</details>
+
+<details>
+<summary>주문하기</summary>
+<div markdown="1">
+
+<img src="./docs/img/주문하기.gif">
+
+</div>
+</details>
+
+<details>
+<summary>가게 상세 페이지</summary>
+<div markdown="1">
+
+<img src="./docs/img/가게 상세 페이지.gif">
+
+</div>
+</details>
+
+<details>
+<summary>장바구니</summary>
+<div markdown="1">
+
+<img src="./docs/img/장바구니.gif">
+
+</div>
+</details>
+
+<details>
+<summary>가게 생성</summary>
+<div markdown="1">
+
+<img src="./docs/img/가게 추가 기능.gif">
+
+</div>
+</details>
+
+<details>
+<summary>가게 수정</summary>
+<div markdown="1">
+
+<img src="./docs/img/가게 수정 기능.gif">
+
+</div>
+</details>
+
+<details>
+<summary>가게 삭제</summary>
+<div markdown="1">
+
+<img src="./docs/img/가게 삭제 기능.gif">
+
+</div>
+</details>
+
+<details>
+<summary>메뉴 생성</summary>
+<div markdown="1">
+
+<img src="./docs/img/메뉴 추가 기능.gif">
+
+</div>
+</details>
+
+<details>
+<summary>메뉴 수정</summary>
+<div markdown="1">
+
+<img src="./docs/img/메뉴 수정 기능.gif">
+
+</div>
+</details>
+
+<details>
+<summary>메뉴 삭제</summary>
+<div markdown="1">
+
+<img src="./docs/img/메뉴 삭제 기능.gif">
+
+</div>
+</details>
+
+<details>
+<summary>가게 리뷰 생성</summary>
+<div markdown="1">
+
+<img src="./docs/img/가게 리뷰 작성.gif">
+
+</div>
+</details>
+
+<details>
+<summary>가게 리뷰 수정</summary>
+<div markdown="1">
+
+<img src="./docs/img/가게 리뷰 수정.gif">
+
+</div>
+</details>
+
+<details>
+<summary>가게 리뷰 삭제</summary>
+<div markdown="1">
+
+<img src="./docs/img/가게 리뷰 삭제.gif">
+
+</div>
+</details>
+
+<details>
+<summary>가게 답변 생성</summary>
+<div markdown="1">
+
+<img src="./docs/img/가게 답변 작성.gif">
+
+</div>
+</details>
+
+<details>
+<summary>가게 답변 수정</summary>
+<div markdown="1">
+
+<img src="./docs/img/가게 답변 수정.gif">
+
+</div>
+</details>
+
+<details>
+<summary>가게 답변 삭제</summary>
+<div markdown="1">
+
+<img src="./docs/img/가게 답변 삭제.gif">
+
+</div>
+</details>
 
 </div>
 </details>
