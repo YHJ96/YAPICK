@@ -127,11 +127,7 @@
 
 ### 양희준 (FE)
 
-<details>
-<summary>역할 확인하기</summary>
-<div markdown="1">
-
-### 소셜 로그인
+#### 소셜 로그인
 
 - 카카오 Oauth 2.0 로그인 구현
 
@@ -168,14 +164,7 @@
 - 답변 수정 기능 구현
 - 답변 삭제 기능 구현
 
-</div>
-</details>
-
 ### 김재원 (FE)
-
-<details>
-<summary>역할 확인하기</summary>
-<div markdown="1">
 
 #### 푸드트럭 가게 설정 기능
 
@@ -201,14 +190,7 @@
 
 - withAuth 기능 구현
 
-</div>
-</details>
-
 ### 유태형 (BE)
-
-<details>
-<summary>역할 확인하기</summary>
-<div markdown="1">
 
 #### 보안
 
@@ -244,14 +226,7 @@
 - 아마존 S3에 이미지 저장
 - 프론트엔드와 BASE64 포맷 통신
 
-</div>
-</details>
-
 ### 임수인 (BE)
-
-<details>
-<summary>역할 확인하기</summary>
-<div markdown="1">
 
 ### 메뉴 기능
 
@@ -268,14 +243,7 @@
 - 회원별 주문 목록 불러오기 기능
 - 온라인 결제 시 결제 검증 기능
 
-</div>
-</details>
-
 ### 김나율 (BE)
-
-<details>
-<summary>역할 확인하기</summary>
-<div markdown="1">
 
 ### AWS 설정
 
@@ -319,9 +287,6 @@
 - 답변 생성 기능 구현
 - 답변 수정 기능 구현
 - 답변 삭제 기능 구현
-
-</div>
-</details>
 
 </div>
 </details>
