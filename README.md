@@ -95,17 +95,17 @@
 
 ### 프론트엔드 설계문서
 
-[1️⃣ 요구사항 명세서](https://www.notion.so/yhj96/9eb436b8e5264a2d8ce85aeb8eebdbec?v=dad3c861b4844de0920c0a9f91d6d900)
-[2️⃣ 화면 설계서](https://www.notion.so/yhj96/771719fb5fb24aac84f2fb78937c1f1f)
-[3️⃣ 유저 플로우 차트](https://www.notion.so/yhj96/befc24e1633b4bc196b5dc698a583fd0)
-[4️⃣ 와이어 프레임](https://www.figma.com/file/2QeBp0wqCB3F4fM4Do331A/%EB%A9%94%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%2F-%EC%95%BC%EC%8B%9C%EC%9E%A5?node-id=0%3A1)
+- [1️⃣ 요구사항 명세서](https://www.notion.so/yhj96/9eb436b8e5264a2d8ce85aeb8eebdbec?v=dad3c861b4844de0920c0a9f91d6d900)
+- [2️⃣ 화면 설계서](https://www.notion.so/yhj96/771719fb5fb24aac84f2fb78937c1f1f)
+- [3️⃣ 유저 플로우 차트](https://www.notion.so/yhj96/befc24e1633b4bc196b5dc698a583fd0)
+- [4️⃣ 와이어 프레임](https://www.figma.com/file/2QeBp0wqCB3F4fM4Do331A/%EB%A9%94%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%2F-%EC%95%BC%EC%8B%9C%EC%9E%A5?node-id=0%3A1)
 
 ### 백앤드 설계문서
 
-[1️⃣ API 명세서](https://yhj96.notion.site/d3665fc4b11642b680c2b6f4ce1cbd8e?v=e4f2c69e8c934ccf92b03e2259679119)
-[2️⃣ 에러코드 명세서](https://yhj96.notion.site/c9decd28e0f34f56b2550bc557b2a856?v=870f8fa836604b69a7fa00226a9aa6d4)
-[3️⃣ 테이블 설계서](https://yhj96.notion.site/d9516fe0197d41fdad34c0fbb03b523f?v=cb001862f4694c0db9363d53b38a8515)
-[4️⃣ 플로우 차트](https://yhj96.notion.site/4f494135589b4a469dad2ba2ddb66967)
+- [1️⃣ API 명세서](https://yhj96.notion.site/d3665fc4b11642b680c2b6f4ce1cbd8e?v=e4f2c69e8c934ccf92b03e2259679119)
+- [2️⃣ 에러코드 명세서](https://yhj96.notion.site/c9decd28e0f34f56b2550bc557b2a856?v=870f8fa836604b69a7fa00226a9aa6d4)
+- [3️⃣ 테이블 설계서](https://yhj96.notion.site/d9516fe0197d41fdad34c0fbb03b523f?v=cb001862f4694c0db9363d53b38a8515)
+- [4️⃣ 플로우 차트](https://yhj96.notion.site/4f494135589b4a469dad2ba2ddb66967)
 
 </div>
 </details>
