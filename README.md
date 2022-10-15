@@ -611,5 +611,25 @@
 <summary>프로젝트 회고록 확인하기</summary>
 <div markdown="1">
 
+### 양희준 (FE)
+
+[🤔 회고록](<./docs/md/%ED%9A%8C%EA%B3%A0%EB%A1%9D(%EC%96%91%ED%9D%AC%EC%A4%80).md>)
+
+### 김재원 (FE)
+
+[🤔 회고록](<./docs/md/%ED%9A%8C%EA%B3%A0%EB%A1%9D(%EA%B9%80%EC%9E%AC%EC%9B%90).md>)
+
+### 유태형 (BE)
+
+[🤔 회고록](<./docs/md/%ED%9A%8C%EA%B3%A0%EB%A1%9D(%EC%9C%A0%ED%83%9C%ED%98%95).md>)
+
+### 임수인 (BE)
+
+[🤔 회고록](<./docs/md/%ED%9A%8C%EA%B3%A0%EB%A1%9D(%EC%9E%84%EC%88%98%EC%9D%B8).md>)
+
+### 김나율 (BE)
+
+[🤔 회고록](<./docs/md/%ED%9A%8C%EA%B3%A0%EB%A1%9D(%EA%B9%80%EB%82%98%EC%9C%A8).md>)
+
 </div>
 </details>
