@@ -579,6 +579,18 @@
 <summary>협업 문서 확인하기</summary>
 <div markdown="1">
 
+### 프로젝트 참고 문서
+
+- [🔄 Oauth 2.0 흐름도](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c79adceb-435d-4aca-a572-9cf15aa5b4a1/Oauth_2.0.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221015%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221015T083039Z&X-Amz-Expires=86400&X-Amz-Signature=2b4236415e74a9e8f5e3298a8ec44dc66ee1fddbc22ed853c362d955eaa2e587&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Oauth%25202.0.pdf%22&x-id=GetObject)
+- [🎨 CSS 네이밍](./docs/md/CSS%20%EB%84%A4%EC%9D%B4%EB%B0%8D%20%EA%B7%9C%EC%B9%99.md)
+- [⚙️ ESLint와 Prettier 기본 설정 방법](./docs//md/eslint-prettier-setting.md)
+
+### 프로젝트 학습 문서
+
+- [💅 styled-components 학습 문서](./docs/md/styled-components.md)
+- [🔗 recoil 학습 문서](./docs/md/recoil.md)
+- [⚛️ react-query 학습 문서](./docs/md/react-query.md)
+
 </div>
 </details>
 
