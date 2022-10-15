@@ -1,130 +1,91 @@
 # 코드스테이츠 39기 38팀 Main-Project
 
-## 팀 소개
+## 배포 링크
+
+[🚚 YAPICK 홈페이지](https://yapick.netlify.app/)
+
+## 팀 & 팀원 소개
 
 <details>
-<summary>팀 소개 확인하기</summary>
+<summary>팀 & 팀원 소개 확인하기</summary>
 <div markdown="1">
+
+### 팀 소개
 
 <img src="./docs/img/YAPICK.png">
 
 기다리지 마세요!! 픽업해서 편하게 즐기세요!!  
 🚚 YAPICK (야시장 음식 주문 웹)
 
-- 팀장 : 양희준(FE)
-- 팀원 : 김재원(FE), 유태형(BE), 김나율(BE), 임수인(BE)
-
-</div>
-</details>
-
-## 배포 링크
-
-[yapick 홈페이지](https://yapick.netlify.app/)
-
-## 주제 선정 이유
-
-코로나 19가 잠잠해지는 시점에서 8월 말에 3년만에 서울에 야시장이 개최되었다는 뉴스를 보게 되었습니다. 하지만 야시장의문제점은 푸드트럭에서 기다리고 차례가 와야 음식을 주문하고 받아가는 문제점을 알게 되어 줄을 기다리지 않고 예약을 한뒤받아가면 더욱더 야시장을 즐겁게 즐기지 않을까? 라는 생각이 들어서 주제 선정을 진행하였습니다.
-
-[한강 달빛 야시장 관련 기사](http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=16036&Newsnumb=20220816036)
-
-## 개선점
-
-- 야시장의 최대 단점인 어떤 음식을 파는 푸드트럭이 입점하는지 사전 정보를 블로그를 통해서 접하게 되는데 웹을 이용해서 입점한 푸드트럭을 파악할 수 있습니다.
-- 푸드트럭의 음식을 미리 주문하여 기다리는 시간에 다른 활동을 즐길 수 있습니다.
-- 푸드트럭의 평점을 확인하여 고객의 선택에 도움을 줄 수 있습니다.
-- 영업하지 않는 푸드트럭을 파악할 수 있어 고객의 선택에 도움을 줄 수 있습니다.
-
-## 기능 목표 3단계
-
-### 1️⃣ Default (기본 기능)
-
-- 소셜 로그인 (카카오톡)
-- 푸드 트럭 리스트 기능
-- 음식 주문 기능
-- 주문 내역 확인 기능
-- 마이페이지 기능
-- 평점 시스템 기능
-- 회원 기능에 따른 인가 설정 (손님, 사장님)
-- 사업체 정보 / 메뉴 / 음식 / 영업시간 등등 푸드 트럭에 필요한 필수 CRUD 기능
-
----
-
-### 2️⃣ Plus (추가 하고 싶은 기능)
-
-- 장바구니 기능
-- 필터링 기능 (음식의 분류)
-- 재료를 소진하면 주문이 안되는 기능
-- 예약한 음식의 남은 시간을 알려주는 기능
-- 음식의 대분류를 추천해 주는 기능 (MBTI 기능 처럼 점수를 통해 추천)
-- 쿠폰 마일리지 기능
-- 해시태그 기능 (인스타그램 해시태그)
-- 결제 API 시스템
-
----
-
-### 3️⃣ Minus (더 알아봐야할 기능)
-
-- 음식이 완성될 시 카카오톡 알림기능 & 카카오톡 공유 기능
-- 카카오 지도를 이용한 선택한 핀 포인트에서 가까운 푸드 트럭 추천 기능
-
-## 배포 링크
-
-[yapick 홈페이지](https://yapick.netlify.app/)
-
-## 주제 선정 이유
-
-코로나 19가 잠잠해지는 시점에서 8월 말에 3년만에 서울에 야시장이 개최되었다는 뉴스를 보게 되었습니다. 하지만 야시장의문제점은 푸드트럭에서 기다리고 차례가 와야 음식을 주문하고 받아가는 문제점을 알게 되어 줄을 기다리지 않고 예약을 한뒤받아가면 더욱더 야시장을 즐겁게 즐기지 않을까? 라는 생각이 들어서 주제 선정을 진행하였습니다.
-
-[한강 달빛 야시장 관련 기사](http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=16036&Newsnumb=20220816036)
-
-## 개선점
-
-- 야시장의 최대 단점인 어떤 음식을 파는 푸드트럭이 입점하는지 사전 정보를 블로그를 통해서 접하게 되는데 웹을 이용해서 입점한 푸드트럭을 파악할 수 있습니다.
-- 푸드트럭의 음식을 미리 주문하여 기다리는 시간에 다른 활동을 즐길 수 있습니다.
-- 푸드트럭의 평점을 확인하여 고객의 선택에 도움을 줄 수 있습니다.
-- 영업하지 않는 푸드트럭을 파악할 수 있어 고객의 선택에 도움을 줄 수 있습니다.
-
-## 기능 목표 3단계
-
-### 1️⃣ Default (기본 기능)
-
-- 소셜 로그인 (카카오톡)
-- 푸드 트럭 리스트 기능
-- 음식 주문 기능
-- 주문 내역 확인 기능
-- 마이페이지 기능
-- 평점 시스템 기능
-- 회원 기능에 따른 인가 설정 (손님, 사장님)
-- 사업체 정보 / 메뉴 / 음식 / 영업시간 등등 푸드 트럭에 필요한 필수 CRUD 기능
-
----
-
-### 2️⃣ Plus (추가 하고 싶은 기능)
-
-- 장바구니 기능
-- 필터링 기능 (음식의 분류)
-- 재료를 소진하면 주문이 안되는 기능
-- 예약한 음식의 남은 시간을 알려주는 기능
-- 음식의 대분류를 추천해 주는 기능 (MBTI 기능 처럼 점수를 통해 추천)
-- 쿠폰 마일리지 기능
-- 해시태그 기능 (인스타그램 해시태그)
-- 결제 API 시스템
-
----
-
-### 3️⃣ Minus (더 알아봐야할 기능)
-
-- 음식이 완성될 시 카카오톡 알림기능 & 카카오톡 공유 기능
-- 카카오 지도를 이용한 선택한 핀 포인트에서 가까운 푸드 트럭 추천 기능
-
-## 팀원 소개
+### 팀원 소개
 
 | FE 양희준                                                                                                                           | FE 김재원                                                                                                                                 | BE 유태형                                                                                                                             | BE 김나율                                                                                                                             | BE 임수인                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | <img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/88187322?v=4" alt="avatar" />                          | <img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/99641988?v=4" alt="avatar" />                                | <img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/84536269?v=4" alt="avatar" />                            | <img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/96483208?v=4" alt="avatar" />                            | <img width="95px" height="95px" src="https://avatars.githubusercontent.com/u/104333737?v=4" alt="avatar" />                           |
 | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/YHJ96) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/Mark1237200) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/ds02168) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/kal1777) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/lkc9898) |
 
+- 팀장 : 양희준(FE)
+- 팀원 : 김재원(FE), 유태형(BE), 김나율(BE), 임수인(BE)
+
 <br>
+
+</div>
+</details>
+
+## 프로젝트 개요
+
+<details>
+<summary>프로젝트 개요 확인하기</summary>
+<div markdown="1">
+
+## 주제 선정 이유
+
+코로나 19가 잠잠해지는 시점에서 8월 말에 3년만에 서울에 야시장이 개최되었다는 뉴스를 보게 되었습니다. 하지만 야시장의문제점은 푸드트럭에서 기다리고 차례가 와야 음식을 주문하고 받아가는 문제점을 알게 되어 줄을 기다리지 않고 예약을 한뒤받아가면 더욱더 야시장을 즐겁게 즐기지 않을까? 라는 생각이 들어서 주제 선정을 진행하였습니다.
+
+[한강 달빛 야시장 관련 기사](http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=16036&Newsnumb=20220816036)
+
+## 개선점
+
+- 야시장의 최대 단점인 어떤 음식을 파는 푸드트럭이 입점하는지 사전 정보를 블로그를 통해서 접하게 되는데 웹을 이용해서 입점한 푸드트럭을 파악할 수 있습니다.
+- 푸드트럭의 음식을 미리 주문하여 기다리는 시간에 다른 활동을 즐길 수 있습니다.
+- 푸드트럭의 평점을 확인하여 고객의 선택에 도움을 줄 수 있습니다.
+- 영업하지 않는 푸드트럭을 파악할 수 있어 고객의 선택에 도움을 줄 수 있습니다.
+
+## 기능 목표 3단계
+
+### 1️⃣ Default (기본 기능)
+
+- 소셜 로그인 (카카오톡)
+- 푸드 트럭 리스트 기능
+- 음식 주문 기능
+- 주문 내역 확인 기능
+- 마이페이지 기능
+- 평점 시스템 기능
+- 회원 기능에 따른 인가 설정 (손님, 사장님)
+- 사업체 정보 / 메뉴 / 음식 / 영업시간 등등 푸드 트럭에 필요한 필수 CRUD 기능
+
+---
+
+### 2️⃣ Plus (추가 하고 싶은 기능)
+
+- 장바구니 기능
+- 필터링 기능 (음식의 분류)
+- 재료를 소진하면 주문이 안되는 기능
+- 예약한 음식의 남은 시간을 알려주는 기능
+- 음식의 대분류를 추천해 주는 기능 (MBTI 기능 처럼 점수를 통해 추천)
+- 쿠폰 마일리지 기능
+- 해시태그 기능 (인스타그램 해시태그)
+- 결제 API 시스템
+
+---
+
+### 3️⃣ Minus (더 알아봐야할 기능)
+
+- 음식이 완성될 시 카카오톡 알림기능 & 카카오톡 공유 기능
+- 카카오 지도를 이용한 선택한 핀 포인트에서 가까운 푸드 트럭 추천 기능
+
+</div>
+</details>
 
 ## 기술 스택
 
@@ -147,18 +108,6 @@
 - <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/H2 Database-004088?style=for-the-badge">
 
 - <img src="https://img.shields.io/badge/Mockito-006600?style=for-the-badge"> <img src="https://img.shields.io/badge/Spring Data JPA-0ABF53?style=for-the-badge">
-
-### Deploy
-
-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
-
-- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white">
-
-### Deploy
-
-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
-
-- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white">
 
 ### Deploy
 
